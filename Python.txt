@@ -1,0 +1,2 @@
+1. dir(__builtins__) --> to get all the built functions
+2. help(builtins name)
